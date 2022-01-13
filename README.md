@@ -1,8 +1,3 @@
-# Name and Matric Number 
-Rushda Binti Abdul Rahim 273585
-
-Nur Shafiqah Binti Mohd Nor 272933
-
 # Assignment — Brushing and Linking
 
 This assignment will help you get started with brushing and linking. Please look through all these materials so you understand how to run and organize your code.
